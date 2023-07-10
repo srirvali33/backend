@@ -1,2 +1,2 @@
 # backend
-Express.js appplication built for craeting REST ful apis
+Express.js backend application built for creating REST ful apis
